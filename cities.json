@@ -1,3 +1,4 @@
+[
 {"name": "Брисбен", "country": "Австралия", "countryCode": "AU", "lat": -27.45, "lon": 153.03, "slug": "brisbane"},
 {"name": "Мельбурн", "country": "Австралия", "countryCode": "AU", "lat": -37.82, "lon": 144.97, "slug": "melbourne"},
 {"name": "Перт", "country": "Австралия", "countryCode": "AU", "lat": -31.95, "lon": 115.84, "slug": "perth"},
@@ -298,4 +299,5 @@
 {"name": "Осака", "country": "Япония", "countryCode": "JP", "lat": 34.69, "lon": 135.5, "slug": "osaka"},
 {"name": "Токио", "country": "Япония", "countryCode": "JP", "lat": 35.69, "lon": 139.75, "slug": "tokyo"},
 {"name": "Фукуока", "country": "Япония", "countryCode": "JP", "lat": 33.6, "lon": 130.41, "slug": "fukuoka"}
+]
 
